@@ -403,3 +403,12 @@ Related Issue: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/98
 Description of changes...
 Status: Merged (2023-01-03T01:19:25Z)
 Merged by: Gabriel Cantarin
+
+## Security: Fix vulnerability in auth flow
+Opened: 2023-01-02T11:39:52Z
+Status: Open
+Branch: feature/activity-1736722544953
+URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/978
+Related Issue: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/965
+
+Description of changes...
