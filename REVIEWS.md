@@ -757,3 +757,9 @@ Date: 2023-01-02T13:19:25Z
 Status: CHANGES_REQUESTED
 PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/924
 Comment: Well documented and easy to understand.
+
+## Review on PR: Test: Add integration tests
+Date: 2023-01-02T19:19:25Z
+Status: CHANGES_REQUESTED
+PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/924
+Comment: The implementation looks clean. Please add more tests.
