@@ -751,3 +751,9 @@ Date: 2023-01-04T01:43:43Z
 Status: APPROVED
 PR: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/249
 Comment: Security considerations look solid.
+
+## Review on PR: Test: Add integration tests
+Date: 2023-01-02T13:19:25Z
+Status: CHANGES_REQUESTED
+PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/924
+Comment: Well documented and easy to understand.
