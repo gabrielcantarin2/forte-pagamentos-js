@@ -880,3 +880,10 @@ Status: Open
 URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/97
 
 Detailed description of the issue...
+
+## Issue: Test: Add integration tests
+Created: 2023-01-02T10:19:25Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/985
+
+Detailed description of the issue...
