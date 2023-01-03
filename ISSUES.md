@@ -857,3 +857,10 @@ URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/84
 
 Detailed description of the issue...
 Status: Closed (2023-01-07T16:20:31Z)
+
+## Issue: Security: Fix vulnerability in auth flow
+Created: 2023-01-03T09:43:43Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/5
+
+Detailed description of the issue...
