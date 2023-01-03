@@ -739,3 +739,9 @@ Date: 2023-01-03T12:43:43Z
 Status: CHANGES_REQUESTED
 PR: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/249
 Comment: Nice refactoring. Much cleaner now.
+
+## Review on PR: Security: Fix vulnerability in auth flow
+Date: 2023-01-03T19:43:43Z
+Status: CHANGES_REQUESTED
+PR: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/249
+Comment: Security considerations look solid.
