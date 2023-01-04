@@ -864,3 +864,5 @@ Status: Open
 URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/5
 
 Detailed description of the issue...
+Status: Closed (2023-01-04T02:43:43Z)
+Closed by PR: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/249
