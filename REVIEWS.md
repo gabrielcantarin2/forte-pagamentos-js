@@ -811,3 +811,9 @@ Date: 2023-01-05T11:19:51Z
 Status: CHANGES_REQUESTED
 PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/108
 Comment: Good job on error handling. Maybe add logging?
+
+## Review on PR: Refactor: Improve code organization
+Date: 2023-01-05T18:19:51Z
+Status: APPROVED
+PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/108
+Comment: Performance looks good. Approved!
