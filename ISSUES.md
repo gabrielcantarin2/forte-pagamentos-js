@@ -785,3 +785,10 @@ URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/115
 
 Detailed description of the issue...
 Status: Closed (2023-01-09T16:55:33Z)
+
+## Refactor authentication module
+Created: 2023-01-06T09:58:15Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/27
+
+Detailed description of the issue...
