@@ -427,3 +427,5 @@ Related Issue: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/81
 Description of changes...
 Status: Merged (2023-01-05T20:19:51Z)
 Merged by: Gabriel Cantarin
+Status: Merged (2023-01-10T11:37:30Z)
+Merged by: Gabriel Cantarin
