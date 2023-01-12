@@ -924,3 +924,10 @@ URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/141
 Detailed description of the issue...
 Status: Closed (2023-01-10T20:54:09Z)
 Closed by PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/608
+
+## Issue: Refactor: Improve code organization
+Created: 2023-01-12T10:10:35Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/6
+
+Detailed description of the issue...
