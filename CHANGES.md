@@ -364,3 +364,5 @@ Status: Open
 Branch: feature/activity-1736718978220
 
 Description of changes...
+Status: Merged (2023-01-14T15:16:50Z)
+Merged by: Gabriel Cantarin
