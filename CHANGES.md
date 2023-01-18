@@ -464,3 +464,12 @@ Related Issue: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/62
 Description of changes...
 Status: Merged (2023-01-18T10:24:54Z)
 Merged by: Gabriel Cantarin
+
+## Feature: Implement user authentication
+Opened: 2023-01-18T16:31:23Z
+Status: Open
+Branch: feature/activity-1736724503292
+URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/917
+Related Issue: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/884
+
+Description of changes...
