@@ -871,3 +871,9 @@ Date: 2023-01-18T03:24:54Z
 Status: CHANGES_REQUESTED
 PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/305
 Comment: Security considerations look solid.
+
+## Review on PR: Security: Fix vulnerability in auth flow
+Date: 2023-01-18T07:24:54Z
+Status: APPROVED
+PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/305
+Comment: The implementation looks clean. Please add more tests.
