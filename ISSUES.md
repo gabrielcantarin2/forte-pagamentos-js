@@ -801,3 +801,10 @@ URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/438
 
 Detailed description of the issue...
 Status: Closed (2023-01-13T10:56:21Z)
+
+## Fix mobile responsiveness issues
+Created: 2023-01-19T11:23:58Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/188
+
+Detailed description of the issue...
