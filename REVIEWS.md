@@ -883,3 +883,9 @@ Date: 2023-01-18T18:31:23Z
 Status: CHANGES_REQUESTED
 PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/917
 Comment: Great work! Just a few minor suggestions for improvement.
+
+## Review on PR: Feature: Implement user authentication
+Date: 2023-01-19T01:31:23Z
+Status: CHANGES_REQUESTED
+PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/917
+Comment: Nice refactoring. Much cleaner now.
