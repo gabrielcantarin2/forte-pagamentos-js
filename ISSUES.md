@@ -957,3 +957,5 @@ Status: Open
 URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/884
 
 Detailed description of the issue...
+Status: Closed (2023-01-19T05:31:23Z)
+Closed by PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/917
