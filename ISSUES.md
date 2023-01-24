@@ -968,3 +968,10 @@ URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/444
 Detailed description of the issue...
 Status: Closed (2023-01-20T06:39:52Z)
 Closed by PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/16
+
+## Enhance logging system
+Created: 2023-01-24T16:09:44Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/962
+
+Detailed description of the issue...
