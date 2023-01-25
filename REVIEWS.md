@@ -32,3 +32,7 @@ Comment: Security considerations look solid.
 ## Code Review
 Date: 2023-01-23T11:17:22Z
 Comment: Nice refactoring. Much cleaner now.
+
+## Code Review
+Date: 2023-01-25T13:34:24Z
+Comment: Good job on error handling. Maybe add logging?
