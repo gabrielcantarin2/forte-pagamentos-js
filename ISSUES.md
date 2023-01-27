@@ -976,3 +976,10 @@ URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/962
 
 Detailed description of the issue...
 Status: Closed (2023-01-25T16:09:44Z)
+
+## Refactor authentication module
+Created: 2023-01-27T14:22:31Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/946
+
+Detailed description of the issue...
