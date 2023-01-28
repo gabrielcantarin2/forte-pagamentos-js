@@ -984,3 +984,10 @@ URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/946
 
 Detailed description of the issue...
 Status: Closed (2023-02-02T14:22:31Z)
+
+## Implement caching mechanism
+Created: 2023-01-28T10:16:23Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/787
+
+Detailed description of the issue...
