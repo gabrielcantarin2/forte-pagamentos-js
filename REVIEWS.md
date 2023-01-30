@@ -925,3 +925,9 @@ Date: 2023-01-30T12:05:53Z
 Status: CHANGES_REQUESTED
 PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/63
 Comment: Well documented and easy to understand.
+
+## Review on PR: Chore: Update development dependencies
+Date: 2023-01-30T13:05:53Z
+Status: CHANGES_REQUESTED
+PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/63
+Comment: Nice refactoring. Much cleaner now.
