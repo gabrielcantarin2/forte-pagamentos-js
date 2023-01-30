@@ -992,3 +992,10 @@ URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/787
 
 Detailed description of the issue...
 Status: Closed (2023-02-01T10:16:23Z)
+
+## Issue: Chore: Update development dependencies
+Created: 2023-01-30T10:05:53Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/257
+
+Detailed description of the issue...
