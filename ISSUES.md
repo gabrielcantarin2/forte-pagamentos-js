@@ -1001,3 +1001,10 @@ URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/257
 Detailed description of the issue...
 Status: Closed (2023-01-30T23:05:53Z)
 Closed by PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/63
+
+## Issue: Implement user authentication
+Created: 2023-01-31T14:29:40Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/314
+
+Detailed description of the issue...
