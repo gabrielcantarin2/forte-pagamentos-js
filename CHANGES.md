@@ -508,3 +508,12 @@ Related Issue: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/31
 Description of changes...
 Status: Merged (2023-01-31T21:29:40Z)
 Merged by: Gabriel Cantarin
+
+## Fix: Resolve memory leak in background tasks
+Opened: 2023-02-01T15:18:02Z
+Status: Open
+Branch: feature/activity-1736726029762
+URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/761
+Related Issue: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/829
+
+Description of changes...
