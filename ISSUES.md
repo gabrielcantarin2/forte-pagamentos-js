@@ -1010,3 +1010,10 @@ URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/314
 Detailed description of the issue...
 Status: Closed (2023-01-31T21:29:40Z)
 Closed by PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/769
+
+## Issue: Fix: Resolve memory leak in background tasks
+Created: 2023-02-01T15:18:02Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/829
+
+Detailed description of the issue...
