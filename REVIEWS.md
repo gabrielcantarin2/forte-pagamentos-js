@@ -979,3 +979,9 @@ Date: 2023-02-02T20:05:16Z
 Status: CHANGES_REQUESTED
 PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/584
 Comment: Great work! Just a few minor suggestions for improvement.
+
+## Review on PR: Docs: Add API documentation
+Date: 2023-02-02T22:05:16Z
+Status: CHANGES_REQUESTED
+PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/584
+Comment: Consider using a more efficient algorithm here.
