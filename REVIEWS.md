@@ -1009,3 +1009,9 @@ Date: 2023-02-03T23:55:50Z
 Status: APPROVED
 PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/29
 Comment: Nice refactoring. Much cleaner now.
+
+## Review on PR: Test: Add integration tests
+Date: 2023-02-04T13:30:15Z
+Status: CHANGES_REQUESTED
+PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/791
+Comment: Consider using a more efficient algorithm here.
