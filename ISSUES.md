@@ -1037,3 +1037,10 @@ URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/867
 Detailed description of the issue...
 Status: Closed (2023-02-04T02:55:50Z)
 Closed by PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/29
+
+## Issue: Test: Add integration tests
+Created: 2023-02-04T11:30:15Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/720
+
+Detailed description of the issue...
