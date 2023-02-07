@@ -1046,3 +1046,10 @@ URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/720
 Detailed description of the issue...
 Status: Closed (2023-02-04T16:30:15Z)
 Closed by PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/791
+
+## Issue: Build: Update CI/CD pipeline
+Created: 2023-02-07T10:25:55Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/820
+
+Detailed description of the issue...
