@@ -1039,3 +1039,9 @@ Date: 2023-02-07T18:25:55Z
 Status: APPROVED
 PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/268
 Comment: Good job on error handling. Maybe add logging?
+
+## Review on PR: Test: Add integration tests
+Date: 2023-02-08T18:12:53Z
+Status: CHANGES_REQUESTED
+PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/924
+Comment: The implementation looks clean. Please add more tests.
