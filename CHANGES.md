@@ -576,3 +576,12 @@ Related Issue: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/95
 Description of changes...
 Status: Merged (2023-02-09T06:12:53Z)
 Merged by: Gabriel Cantarin
+
+## Refactor: Improve code organization
+Opened: 2023-02-10T10:17:55Z
+Status: Open
+Branch: feature/activity-1736727954656
+URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/215
+Related Issue: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/383
+
+Description of changes...
