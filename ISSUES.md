@@ -1072,3 +1072,10 @@ URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/721
 
 Detailed description of the issue...
 Status: Closed (2023-02-12T10:54:12Z)
+
+## Issue: Refactor: Improve code organization
+Created: 2023-02-10T10:17:55Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/383
+
+Detailed description of the issue...
