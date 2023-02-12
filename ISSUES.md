@@ -1081,3 +1081,10 @@ URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/383
 Detailed description of the issue...
 Status: Closed (2023-02-11T00:17:55Z)
 Closed by PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/215
+
+## Issue: Style: Update UI components
+Created: 2023-02-12T10:19:17Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/932
+
+Detailed description of the issue...
