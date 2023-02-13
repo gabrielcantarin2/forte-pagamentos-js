@@ -1087,3 +1087,9 @@ Date: 2023-02-12T21:19:17Z
 Status: APPROVED
 PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/707
 Comment: Consider using a more efficient algorithm here.
+
+## Review on PR: Chore: Update development dependencies
+Date: 2023-02-13T17:14:28Z
+Status: CHANGES_REQUESTED
+PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/822
+Comment: This could be simplified using newer ES6+ features.
