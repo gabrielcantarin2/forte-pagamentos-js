@@ -1081,3 +1081,9 @@ Date: 2023-02-12T17:19:17Z
 Status: CHANGES_REQUESTED
 PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/707
 Comment: Good job on error handling. Maybe add logging?
+
+## Review on PR: Style: Update UI components
+Date: 2023-02-12T21:19:17Z
+Status: APPROVED
+PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/707
+Comment: Consider using a more efficient algorithm here.
