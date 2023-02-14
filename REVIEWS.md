@@ -1099,3 +1099,9 @@ Date: 2023-02-13T22:14:28Z
 Status: CHANGES_REQUESTED
 PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/822
 Comment: Great work! Just a few minor suggestions for improvement.
+
+## Review on PR: Chore: Update development dependencies
+Date: 2023-02-14T00:14:28Z
+Status: APPROVED
+PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/822
+Comment: Performance looks good. Approved!
