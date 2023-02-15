@@ -1108,3 +1108,10 @@ URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/799
 Detailed description of the issue...
 Status: Closed (2023-02-14T21:04:30Z)
 Closed by PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/31
+
+## Optimize database queries
+Created: 2023-02-15T16:12:01Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/178
+
+Detailed description of the issue...
