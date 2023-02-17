@@ -1116,3 +1116,10 @@ URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/178
 
 Detailed description of the issue...
 Status: Closed (2023-02-16T16:12:01Z)
+
+## Issue: Docs: Add API documentation
+Created: 2023-02-17T12:06:55Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/199
+
+Detailed description of the issue...
