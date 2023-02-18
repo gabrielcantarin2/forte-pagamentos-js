@@ -1129,3 +1129,9 @@ Date: 2023-02-17T19:06:55Z
 Status: CHANGES_REQUESTED
 PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/925
 Comment: The implementation looks clean. Please add more tests.
+
+## Review on PR: Docs: Add API documentation
+Date: 2023-02-18T02:06:55Z
+Status: APPROVED
+PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/925
+Comment: Great work! Just a few minor suggestions for improvement.
