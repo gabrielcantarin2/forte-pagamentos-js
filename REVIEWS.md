@@ -1153,3 +1153,9 @@ Date: 2023-02-20T23:15:48Z
 Status: CHANGES_REQUESTED
 PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/903
 Comment: Security considerations look solid.
+
+## Review on PR: Style: Update UI components
+Date: 2023-02-21T02:15:48Z
+Status: APPROVED
+PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/903
+Comment: Well documented and easy to understand.
