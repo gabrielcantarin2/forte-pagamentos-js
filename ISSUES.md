@@ -1142,3 +1142,10 @@ URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/957
 
 Detailed description of the issue...
 Status: Closed (2023-02-28T16:56:53Z)
+
+## Improve error handling in API endpoints
+Created: 2023-02-27T14:10:17Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/170
+
+Detailed description of the issue...
