@@ -1150,3 +1150,10 @@ URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/170
 
 Detailed description of the issue...
 Status: Closed (2023-03-04T14:10:17Z)
+
+## Issue: Security: Fix vulnerability in auth flow
+Created: 2023-02-28T10:22:04Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/958
+
+Detailed description of the issue...
