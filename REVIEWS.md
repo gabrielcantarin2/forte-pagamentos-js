@@ -1183,3 +1183,9 @@ Date: 2023-03-01T21:43:22Z
 Status: CHANGES_REQUESTED
 PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/491
 Comment: Performance looks good. Approved!
+
+## Review on PR: Style: Update UI components
+Date: 2023-03-02T04:43:22Z
+Status: CHANGES_REQUESTED
+PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/491
+Comment: This could be simplified using newer ES6+ features.
