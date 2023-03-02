@@ -666,3 +666,5 @@ URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/491
 Related Issue: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/295
 
 Description of changes...
+Status: Merged (2023-03-02T07:43:22Z)
+Merged by: Gabriel Cantarin
