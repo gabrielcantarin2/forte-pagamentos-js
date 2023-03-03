@@ -1168,3 +1168,10 @@ URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/295
 Detailed description of the issue...
 Status: Closed (2023-03-02T07:43:22Z)
 Closed by PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/491
+
+## Issue: Perf: Optimize image loading
+Created: 2023-03-03T10:32:09Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/439
+
+Detailed description of the issue...
