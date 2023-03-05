@@ -1225,3 +1225,9 @@ Date: 2023-03-04T19:50:30Z
 Status: CHANGES_REQUESTED
 PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/650
 Comment: The implementation looks clean. Please add more tests.
+
+## Review on PR: Perf: Optimize image loading
+Date: 2023-03-04T23:50:30Z
+Status: CHANGES_REQUESTED
+PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/650
+Comment: The code style follows our guidelines perfectly.
