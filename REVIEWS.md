@@ -1243,3 +1243,9 @@ Date: 2023-03-07T21:53:11Z
 Status: CHANGES_REQUESTED
 PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/933
 Comment: Great work! Just a few minor suggestions for improvement.
+
+## Review on PR: Security: Fix vulnerability in auth flow
+Date: 2023-03-08T00:53:11Z
+Status: CHANGES_REQUESTED
+PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/933
+Comment: Well documented and easy to understand.
