@@ -1237,3 +1237,9 @@ Date: 2023-03-05T02:50:30Z
 Status: APPROVED
 PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/650
 Comment: Consider using a more efficient algorithm here.
+
+## Review on PR: Security: Fix vulnerability in auth flow
+Date: 2023-03-07T21:53:11Z
+Status: CHANGES_REQUESTED
+PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/933
+Comment: Great work! Just a few minor suggestions for improvement.
