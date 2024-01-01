@@ -216,3 +216,17 @@ Reviewed by: Gabriel Cantarin
 Status: Merged (2024-02-21T12:51:47Z)
 Merged by: Gabriel Cantarin
 Reviewed by: Gabriel Cantarin
+
+## Refactor: Improve code organization
+Opened: 2024-02-22T16:40:16Z
+Status: Open
+Branch: feature/activity-1736717917477
+
+Description of changes...
+
+## Build: Update CI/CD pipeline
+Opened: 2024-01-01T10:44:57Z
+Status: Open
+Branch: feature/activity-1736718838801
+
+Description of changes...
