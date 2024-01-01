@@ -60,3 +60,7 @@ Comment: Nice refactoring. Much cleaner now.
 ## Code Review
 Date: 2023-02-06T12:42:37Z
 Comment: Consider using a more efficient algorithm here.
+
+## Code Review
+Date: 2023-02-08T13:39:10Z
+Comment: Good job on error handling. Maybe add logging?

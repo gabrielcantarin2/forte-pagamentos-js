@@ -18,3 +18,9 @@ Created: 2023-01-17T16:49:13Z
 Status: Open
 
 Detailed description of the issue...
+
+## Add unit tests for core functionality
+Created: 2024-01-01T16:46:54Z
+Status: Open
+
+Detailed description of the issue...
