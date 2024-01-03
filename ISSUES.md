@@ -179,3 +179,16 @@ Status: Open
 
 Detailed description of the issue...
 Status: Closed (2024-05-18T14:33:30Z)
+
+## Enhance logging system
+Created: 2024-05-17T16:34:23Z
+Status: Open
+
+Detailed description of the issue...
+
+## Implement caching mechanism
+Created: 2024-01-03T15:02:57Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/549
+
+Detailed description of the issue...
