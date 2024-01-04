@@ -235,3 +235,9 @@ Date: 2024-01-01T09:26:16Z
 Status: APPROVED
 URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/269#discussion_r662
 Comment: Nice refactoring. Much cleaner now.
+
+## Code Review
+Date: 2024-01-04T11:11:46Z
+Status: APPROVED
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/650#discussion_r148
+Comment: This could be simplified using newer ES6+ features.
