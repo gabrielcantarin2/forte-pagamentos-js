@@ -32,3 +32,9 @@ Status: Open
 
 Detailed description of the issue...
 Status: Closed (2024-01-09T12:29:09Z)
+
+## Update dependencies to latest versions
+Created: 2024-01-05T10:43:34Z
+Status: Open
+
+Detailed description of the issue...
