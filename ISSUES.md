@@ -233,3 +233,10 @@ URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/592
 
 Detailed description of the issue...
 Status: Closed (2024-01-10T15:56:51Z)
+
+## Update dependencies to latest versions
+Created: 2024-01-05T14:53:42Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/662
+
+Detailed description of the issue...
