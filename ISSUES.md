@@ -39,3 +39,9 @@ Status: Open
 
 Detailed description of the issue...
 Status: Closed (2024-01-11T10:43:34Z)
+
+## Fix performance bottleneck in data processing
+Created: 2024-01-08T13:27:55Z
+Status: Open
+
+Detailed description of the issue...
