@@ -246,3 +246,10 @@ Status: Open
 Branch: feature/activity-1736718853875
 
 Description of changes...
+
+## Security: Fix vulnerability in auth flow
+Opened: 2024-01-08T14:23:57Z
+Status: Open
+Branch: feature/activity-1736718859837
+
+Description of changes...
