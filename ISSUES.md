@@ -31,3 +31,4 @@ Created: 2024-01-02T12:29:09Z
 Status: Open
 
 Detailed description of the issue...
+Status: Closed (2024-01-09T12:29:09Z)
