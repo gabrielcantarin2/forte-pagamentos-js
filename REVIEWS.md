@@ -253,3 +253,9 @@ Date: 2024-01-08T13:58:15Z
 Status: CHANGES_REQUESTED
 URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/634#discussion_r89
 Comment: Good job on error handling. Maybe add logging?
+
+## Code Review
+Date: 2024-01-09T15:48:48Z
+Status: CHANGES_REQUESTED
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/161#discussion_r393
+Comment: Well documented and easy to understand.
