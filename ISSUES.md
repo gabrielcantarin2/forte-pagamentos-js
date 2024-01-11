@@ -38,3 +38,4 @@ Created: 2024-01-05T10:43:34Z
 Status: Open
 
 Detailed description of the issue...
+Status: Closed (2024-01-11T10:43:34Z)
