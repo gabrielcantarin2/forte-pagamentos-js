@@ -259,3 +259,9 @@ Date: 2024-01-09T15:48:48Z
 Status: CHANGES_REQUESTED
 URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/161#discussion_r393
 Comment: Well documented and easy to understand.
+
+## Code Review
+Date: 2024-01-11T10:37:23Z
+Status: APPROVED
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/246#discussion_r719
+Comment: Consider using a more efficient algorithm here.
