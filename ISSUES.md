@@ -45,3 +45,4 @@ Created: 2024-01-08T13:27:55Z
 Status: Open
 
 Detailed description of the issue...
+Status: Closed (2024-01-15T13:27:55Z)
