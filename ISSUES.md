@@ -209,3 +209,10 @@ URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/366
 
 Detailed description of the issue...
 Status: Closed (2024-01-15T11:23:06Z)
+
+## Optimize database queries
+Created: 2024-01-15T15:37:27Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/58
+
+Detailed description of the issue...
