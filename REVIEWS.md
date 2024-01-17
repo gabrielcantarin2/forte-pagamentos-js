@@ -265,3 +265,9 @@ Date: 2024-01-11T10:37:23Z
 Status: APPROVED
 URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/246#discussion_r719
 Comment: Consider using a more efficient algorithm here.
+
+## Code Review
+Date: 2024-01-17T10:47:14Z
+Status: CHANGES_REQUESTED
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/19#discussion_r303
+Comment: Nice refactoring. Much cleaner now.
