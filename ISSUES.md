@@ -720,3 +720,4 @@ Status: Open
 URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/549
 
 Detailed description of the issue...
+Status: Closed (2024-01-28T15:25:04Z)
