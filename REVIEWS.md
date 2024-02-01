@@ -313,3 +313,9 @@ Date: 2024-01-31T10:14:27Z
 Status: CHANGES_REQUESTED
 URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/198#discussion_r719
 Comment: Great work! Just a few minor suggestions for improvement.
+
+## Code Review
+Date: 2024-02-01T14:33:17Z
+Status: CHANGES_REQUESTED
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/475#discussion_r821
+Comment: Well documented and easy to understand.
