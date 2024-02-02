@@ -273,3 +273,10 @@ Status: Merged (2024-02-02T11:15:57Z)
 Merged by: Gabriel Cantarin
 Status: Merged (2024-02-06T14:18:26Z)
 Merged by: Gabriel Cantarin
+
+## Refactor: Improve code organization
+Opened: 2024-02-02T10:24:32Z
+Status: Open
+Branch: feature/activity-1736718896517
+
+Description of changes...
