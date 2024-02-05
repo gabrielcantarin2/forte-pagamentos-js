@@ -109,3 +109,8 @@ Comment: The implementation looks clean. Please add more tests.
 Date: 2024-02-02T11:09:02Z
 Status: APPROVED
 Comment: Nice refactoring. Much cleaner now.
+
+## Code Review
+Date: 2024-02-05T10:48:43Z
+Status: CHANGES_REQUESTED
+Comment: Security considerations look solid.
