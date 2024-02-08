@@ -265,3 +265,10 @@ URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/385
 
 Detailed description of the issue...
 Status: Closed (2024-02-09T16:13:42Z)
+
+## Improve error handling in API endpoints
+Created: 2024-02-08T15:02:53Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/696
+
+Detailed description of the issue...
