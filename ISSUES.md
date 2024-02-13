@@ -737,3 +737,10 @@ URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/521
 
 Detailed description of the issue...
 Status: Closed (2024-02-09T16:15:29Z)
+
+## Update dependencies to latest versions
+Created: 2024-02-13T12:08:56Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/367
+
+Detailed description of the issue...
