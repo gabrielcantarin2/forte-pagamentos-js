@@ -331,3 +331,9 @@ Date: 2024-02-11T13:09:36Z
 Status: CHANGES_REQUESTED
 URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/573#discussion_r831
 Comment: The code style follows our guidelines perfectly.
+
+## Code Review
+Date: 2024-02-13T10:37:53Z
+Status: APPROVED
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/99#discussion_r982
+Comment: Consider using a more efficient algorithm here.
