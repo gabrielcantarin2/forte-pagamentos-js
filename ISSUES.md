@@ -66,3 +66,4 @@ Created: 2024-02-09T09:25:19Z
 Status: Open
 
 Detailed description of the issue...
+Status: Closed (2024-02-14T09:25:19Z)
