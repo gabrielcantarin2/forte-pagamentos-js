@@ -81,3 +81,9 @@ Status: Open
 
 Detailed description of the issue...
 Status: Closed (2024-02-20T15:36:51Z)
+
+## Implement caching mechanism
+Created: 2024-02-16T09:45:45Z
+Status: Open
+
+Detailed description of the issue...
