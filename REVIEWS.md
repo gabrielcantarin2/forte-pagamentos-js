@@ -337,3 +337,9 @@ Date: 2024-02-13T10:37:53Z
 Status: APPROVED
 URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/99#discussion_r982
 Comment: Consider using a more efficient algorithm here.
+
+## Code Review
+Date: 2024-02-17T09:19:28Z
+Status: APPROVED
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/121#discussion_r588
+Comment: Good job on error handling. Maybe add logging?
