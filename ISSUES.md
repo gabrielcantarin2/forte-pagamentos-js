@@ -80,3 +80,4 @@ Created: 2024-02-13T15:36:51Z
 Status: Open
 
 Detailed description of the issue...
+Status: Closed (2024-02-20T15:36:51Z)
