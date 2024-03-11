@@ -102,3 +102,9 @@ Status: Open
 
 Detailed description of the issue...
 Status: Closed (2024-03-08T12:15:31Z)
+
+## Add documentation for new features
+Created: 2024-03-11T14:12:44Z
+Status: Open
+
+Detailed description of the issue...
