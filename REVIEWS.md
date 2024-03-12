@@ -164,3 +164,8 @@ Comment: Good job on error handling. Maybe add logging?
 Date: 2024-03-08T10:40:41Z
 Status: CHANGES_REQUESTED
 Comment: Performance looks good. Approved!
+
+## Code Review
+Date: 2024-03-12T09:51:56Z
+Status: CHANGES_REQUESTED
+Comment: Consider using a more efficient algorithm here.
