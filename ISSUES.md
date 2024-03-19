@@ -109,3 +109,9 @@ Status: Open
 
 Detailed description of the issue...
 Status: Closed (2024-03-14T14:12:44Z)
+
+## Improve error handling in API endpoints
+Created: 2024-03-19T13:17:11Z
+Status: Open
+
+Detailed description of the issue...
