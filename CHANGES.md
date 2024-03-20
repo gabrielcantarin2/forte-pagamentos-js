@@ -355,3 +355,5 @@ Branch: feature/activity-1736718970655
 Description of changes...
 Status: Merged (2024-03-16T13:05:53Z)
 Merged by: Gabriel Cantarin
+Status: Merged (2024-03-20T11:40:43Z)
+Merged by: Gabriel Cantarin
