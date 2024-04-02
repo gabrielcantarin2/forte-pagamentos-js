@@ -123,3 +123,9 @@ Status: Open
 
 Detailed description of the issue...
 Status: Closed (2024-04-03T16:03:16Z)
+
+## Fix mobile responsiveness issues
+Created: 2024-04-02T16:40:30Z
+Status: Open
+
+Detailed description of the issue...
