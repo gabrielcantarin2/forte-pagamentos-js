@@ -122,3 +122,4 @@ Created: 2024-03-28T16:03:16Z
 Status: Open
 
 Detailed description of the issue...
+Status: Closed (2024-04-03T16:03:16Z)
