@@ -130,3 +130,9 @@ Status: Open
 
 Detailed description of the issue...
 Status: Closed (2024-04-04T16:40:30Z)
+
+## Enhance logging system
+Created: 2024-04-04T15:43:09Z
+Status: Open
+
+Detailed description of the issue...
