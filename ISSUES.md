@@ -129,3 +129,4 @@ Created: 2024-04-02T16:40:30Z
 Status: Open
 
 Detailed description of the issue...
+Status: Closed (2024-04-04T16:40:30Z)
