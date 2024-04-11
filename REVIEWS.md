@@ -451,3 +451,9 @@ Date: 2024-04-04T09:10:43Z
 Status: APPROVED
 URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/12#discussion_r141
 Comment: Great work! Just a few minor suggestions for improvement.
+
+## Code Review
+Date: 2024-04-11T09:21:06Z
+Status: APPROVED
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/157#discussion_r498
+Comment: This could be simplified using newer ES6+ features.
