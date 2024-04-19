@@ -469,3 +469,9 @@ Date: 2024-04-17T14:29:58Z
 Status: APPROVED
 URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/410#discussion_r570
 Comment: The code style follows our guidelines perfectly.
+
+## Code Review
+Date: 2024-04-19T11:06:41Z
+Status: APPROVED
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/824#discussion_r332
+Comment: Consider using a more efficient algorithm here.
