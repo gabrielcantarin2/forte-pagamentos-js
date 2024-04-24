@@ -151,3 +151,9 @@ Status: Open
 
 Detailed description of the issue...
 Status: Closed (2024-04-21T15:34:23Z)
+
+## Update dependencies to latest versions
+Created: 2024-04-24T12:21:32Z
+Status: Open
+
+Detailed description of the issue...
