@@ -385,3 +385,10 @@ URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/273
 
 Detailed description of the issue...
 Status: Closed (2024-05-03T12:17:27Z)
+
+## Fix mobile responsiveness issues
+Created: 2024-04-30T15:22:27Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/642
+
+Detailed description of the issue...
