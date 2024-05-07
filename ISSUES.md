@@ -158,3 +158,9 @@ Status: Open
 
 Detailed description of the issue...
 Status: Closed (2024-04-27T12:21:32Z)
+
+## Optimize database queries
+Created: 2024-05-07T11:32:45Z
+Status: Open
+
+Detailed description of the issue...
