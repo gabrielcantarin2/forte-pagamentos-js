@@ -487,3 +487,9 @@ Date: 2024-05-06T09:20:46Z
 Status: APPROVED
 URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/915#discussion_r497
 Comment: Nice refactoring. Much cleaner now.
+
+## Code Review
+Date: 2024-05-08T14:55:30Z
+Status: CHANGES_REQUESTED
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/537#discussion_r840
+Comment: The code style follows our guidelines perfectly.
