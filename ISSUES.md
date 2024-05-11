@@ -165,3 +165,9 @@ Status: Open
 
 Detailed description of the issue...
 Status: Closed (2024-05-12T11:32:45Z)
+
+## Refactor authentication module
+Created: 2024-05-11T09:36:50Z
+Status: Open
+
+Detailed description of the issue...
