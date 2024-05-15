@@ -493,3 +493,9 @@ Date: 2024-05-08T14:55:30Z
 Status: CHANGES_REQUESTED
 URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/537#discussion_r840
 Comment: The code style follows our guidelines perfectly.
+
+## Code Review
+Date: 2024-05-15T11:41:00Z
+Status: APPROVED
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/939#discussion_r298
+Comment: This could be simplified using newer ES6+ features.
