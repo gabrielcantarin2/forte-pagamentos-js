@@ -171,3 +171,4 @@ Created: 2024-05-11T09:36:50Z
 Status: Open
 
 Detailed description of the issue...
+Status: Closed (2024-05-16T09:36:50Z)
