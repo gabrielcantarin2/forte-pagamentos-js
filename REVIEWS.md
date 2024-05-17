@@ -499,3 +499,9 @@ Date: 2024-05-15T11:41:00Z
 Status: APPROVED
 URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/939#discussion_r298
 Comment: This could be simplified using newer ES6+ features.
+
+## Code Review
+Date: 2024-05-17T16:23:40Z
+Status: CHANGES_REQUESTED
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/241#discussion_r673
+Comment: The implementation looks clean. Please add more tests.
