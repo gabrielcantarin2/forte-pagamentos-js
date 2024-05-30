@@ -433,3 +433,10 @@ URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/865
 
 Detailed description of the issue...
 Status: Closed (2024-05-29T12:34:51Z)
+
+## Update dependencies to latest versions
+Created: 2024-05-30T13:32:31Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/112
+
+Detailed description of the issue...
