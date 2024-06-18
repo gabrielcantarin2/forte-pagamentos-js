@@ -559,3 +559,9 @@ Date: 2024-06-17T13:57:13Z
 Status: APPROVED
 URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/211#discussion_r51
 Comment: The code style follows our guidelines perfectly.
+
+## Code Review
+Date: 2024-06-18T15:25:28Z
+Status: APPROVED
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/385#discussion_r523
+Comment: Good job on error handling. Maybe add logging?
