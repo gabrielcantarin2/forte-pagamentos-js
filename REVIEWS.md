@@ -565,3 +565,9 @@ Date: 2024-06-18T15:25:28Z
 Status: APPROVED
 URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/385#discussion_r523
 Comment: Good job on error handling. Maybe add logging?
+
+## Code Review
+Date: 2024-06-21T12:46:38Z
+Status: APPROVED
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/365#discussion_r113
+Comment: This could be simplified using newer ES6+ features.
