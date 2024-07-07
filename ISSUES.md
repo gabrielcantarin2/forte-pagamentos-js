@@ -489,3 +489,10 @@ URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/650
 
 Detailed description of the issue...
 Status: Closed (2024-06-27T10:22:41Z)
+
+## Implement caching mechanism
+Created: 2024-07-07T10:05:48Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/40
+
+Detailed description of the issue...
