@@ -513,3 +513,10 @@ URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/285
 
 Detailed description of the issue...
 Status: Closed (2024-07-14T12:38:29Z)
+
+## Enhance logging system
+Created: 2024-07-10T13:36:12Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/12
+
+Detailed description of the issue...
