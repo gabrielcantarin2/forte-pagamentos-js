@@ -529,3 +529,10 @@ URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/546
 
 Detailed description of the issue...
 Status: Closed (2024-07-23T09:51:49Z)
+
+## Add documentation for new features
+Created: 2024-07-17T16:05:42Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/251
+
+Detailed description of the issue...
