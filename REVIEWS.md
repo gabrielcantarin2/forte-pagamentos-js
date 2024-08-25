@@ -637,3 +637,9 @@ Date: 2024-08-17T12:04:08Z
 Status: APPROVED
 URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/499#discussion_r178
 Comment: The implementation looks clean. Please add more tests.
+
+## Code Review
+Date: 2024-08-25T12:14:36Z
+Status: APPROVED
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/217#discussion_r614
+Comment: Consider using a more efficient algorithm here.
