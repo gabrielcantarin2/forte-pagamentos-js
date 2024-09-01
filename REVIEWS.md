@@ -655,3 +655,9 @@ Date: 2024-08-28T09:16:57Z
 Status: APPROVED
 URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/387#discussion_r112
 Comment: Great work! Just a few minor suggestions for improvement.
+
+## Code Review
+Date: 2024-09-01T09:32:01Z
+Status: CHANGES_REQUESTED
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/850#discussion_r71
+Comment: Nice refactoring. Much cleaner now.
