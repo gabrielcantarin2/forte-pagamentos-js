@@ -661,3 +661,9 @@ Date: 2024-09-01T09:32:01Z
 Status: CHANGES_REQUESTED
 URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/850#discussion_r71
 Comment: Nice refactoring. Much cleaner now.
+
+## Code Review
+Date: 2024-09-03T10:04:30Z
+Status: CHANGES_REQUESTED
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/498#discussion_r742
+Comment: Security considerations look solid.
