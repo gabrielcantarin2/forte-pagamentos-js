@@ -667,3 +667,9 @@ Date: 2024-09-03T10:04:30Z
 Status: CHANGES_REQUESTED
 URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/498#discussion_r742
 Comment: Security considerations look solid.
+
+## Code Review
+Date: 2024-09-12T11:34:02Z
+Status: CHANGES_REQUESTED
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/547#discussion_r572
+Comment: This could be simplified using newer ES6+ features.
