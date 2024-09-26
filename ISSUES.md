@@ -601,3 +601,10 @@ URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/759
 
 Detailed description of the issue...
 Status: Closed (2024-09-30T11:40:40Z)
+
+## Update dependencies to latest versions
+Created: 2024-09-26T11:56:21Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/239
+
+Detailed description of the issue...
