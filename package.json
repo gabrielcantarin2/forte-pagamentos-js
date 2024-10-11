@@ -1,7 +1,7 @@
 {
-  "name": "forte-pagamentos-js",
-  "private": true,
-  "version": "0.0.0",
+  "name": "@gabrielcantarin2/forte-pagamentos-js",
+  "private": false,
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
