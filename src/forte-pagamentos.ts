@@ -1,41 +1,9 @@
-import axios from "axios";
-import * as dotenv from "dotenv";
+import axios from "axios"; // Ensure axios is installed
+import * as dotenv from "dotenv"; // For environment variables
 
-dotenv.config();
+dotenv.config(); // Load .env variables
 
 const API_URL = "https://api.fortepagamentos.com.br/v1";
-
-// Authenticate function
-async function authenticate(
-  clientId: string,
-  clientSecret: string
-): Promise<string> {
-  try {
-    const response = await axios.post(
-      `${API_URL}/auth/token`,
-      {
-        client_id: clientId,
-        client_secret: clientSecret,
-      },
-      {
-        headers: {
-          "Content-Type": "application/json",
-        },
-      }
-    );
-
-    return response.data.data.access_token;
-  } catch (error: unknown) {
-    // Specify the error type as unknown
-    if (axios.isAxiosError(error)) {
-      // Check if the error is an Axios error
-      console.error("Authentication Error:", error.response?.data);
-    } else {
-      console.error("Unexpected Error:", error);
-    }
-    throw error;
-  }
-}
 
 // Create transaction function
 async function createTransaction(
@@ -51,7 +19,6 @@ async function createTransaction(
 
     return response.data;
   } catch (error: unknown) {
-    // Specify the error type as unknown
     if (axios.isAxiosError(error)) {
       console.error("Error creating transaction:", error.response?.data);
     } else {
@@ -76,7 +43,6 @@ async function listTransactions(
 
     return response.data;
   } catch (error: unknown) {
-    // Specify the error type as unknown
     if (axios.isAxiosError(error)) {
       console.error("Error listing transactions:", error.response?.data);
     } else {
@@ -86,5 +52,4 @@ async function listTransactions(
   }
 }
 
-// Export functions
-export { authenticate, createTransaction, listTransactions };
+export { createTransaction, listTransactions };

@@ -1,12 +1,12 @@
 {
   "name": "@gabrielcantarin2/forte-pagamentos-js",
   "private": false,
-  "version": "0.0.5",
+  "version": "0.0.8",
   "type": "module",
-  "main": "src/forte-pagamentos.js",
+  "main": "src/forte-pagamentos.ts",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "tsc",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "preview": "vite preview",
@@ -24,6 +24,7 @@
     "@babel/preset-env": "^7.25.8",
     "@babel/preset-react": "^7.25.7",
     "@eslint/js": "^9.12.0",
+    "@types/node": "^22.7.5",
     "@types/react": "^18.3.10",
     "@types/react-dom": "^18.3.0",
     "@vitejs/plugin-react": "^4.3.2",
@@ -36,6 +37,7 @@
     "globals": "^15.11.0",
     "jest": "^29.7.0",
     "jest-environment-jsdom": "^29.7.0",
+    "typescript": "^5.6.3",
     "vite": "^5.4.8"
   }
 }
