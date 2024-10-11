@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1728620594411" clover="3.2.0">
+  <project timestamp="1728620594411" name="All files">
+    <metrics statements="26" coveredstatements="13" conditionals="3" coveredconditionals="0" methods="4" coveredmethods="2" elements="33" coveredelements="15" complexity="0" loc="26" ncloc="26" packages="1" files="1" classes="1"/>
+    <file name="forte-pagamentos.js" path="C:\dev\forte-pagamentos-js\src\forte-pagamentos.js">
+      <metrics statements="26" coveredstatements="13" conditionals="3" coveredconditionals="0" methods="4" coveredmethods="2"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="12" count="2" type="stmt"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="15" count="2" type="stmt"/>
+      <line num="17" count="2" type="stmt"/>
+      <line num="26" count="2" type="stmt"/>
+      <line num="28" count="2" type="stmt"/>
+      <line num="30" count="0" type="stmt"/>
+      <line num="31" count="0" type="stmt"/>
+      <line num="37" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="38" count="0" type="stmt"/>
+      <line num="41" count="0" type="stmt"/>
+      <line num="42" count="0" type="stmt"/>
+      <line num="54" count="0" type="stmt"/>
+      <line num="55" count="0" type="stmt"/>
+      <line num="61" count="0" type="stmt"/>
+      <line num="63" count="0" type="stmt"/>
+      <line num="64" count="0" type="stmt"/>
+      <line num="69" count="1" type="stmt"/>
+      <line num="70" count="1" type="stmt"/>
+      <line num="77" count="1" type="stmt"/>
+      <line num="79" count="0" type="stmt"/>
+      <line num="80" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
