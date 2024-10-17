@@ -633,3 +633,10 @@ URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/294
 
 Detailed description of the issue...
 Status: Closed (2024-10-18T11:12:39Z)
+
+## Add unit tests for core functionality
+Created: 2024-10-17T15:06:29Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/583
+
+Detailed description of the issue...
