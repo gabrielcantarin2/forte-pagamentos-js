@@ -665,3 +665,10 @@ URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/251
 
 Detailed description of the issue...
 Status: Closed (2024-10-30T09:15:50Z)
+
+## Enhance logging system
+Created: 2024-11-03T10:21:15Z
+Status: Open
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/issues/506
+
+Detailed description of the issue...
