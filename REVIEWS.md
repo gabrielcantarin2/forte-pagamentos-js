@@ -721,3 +721,9 @@ Date: 2024-11-07T13:54:01Z
 Status: APPROVED
 URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/657#discussion_r966
 Comment: The code style follows our guidelines perfectly.
+
+## Code Review
+Date: 2024-11-20T16:34:03Z
+Status: CHANGES_REQUESTED
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/172#discussion_r665
+Comment: Well documented and easy to understand.
