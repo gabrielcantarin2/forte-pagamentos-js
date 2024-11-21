@@ -727,3 +727,9 @@ Date: 2024-11-20T16:34:03Z
 Status: CHANGES_REQUESTED
 URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/172#discussion_r665
 Comment: Well documented and easy to understand.
+
+## Code Review
+Date: 2024-11-21T15:30:49Z
+Status: APPROVED
+URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/155#discussion_r581
+Comment: Good job on error handling. Maybe add logging?
