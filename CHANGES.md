@@ -267,3 +267,30 @@ Status: Open
 Branch: feature/activity-1736718871972
 
 Description of changes...
+Status: Merged (2024-01-25T11:04:34Z)
+Merged by: Gabriel Cantarin
+Status: Merged (2024-02-02T11:15:57Z)
+Merged by: Gabriel Cantarin
+Status: Merged (2024-02-06T14:18:26Z)
+Merged by: Gabriel Cantarin
+
+## Refactor: Improve code organization
+Opened: 2024-02-02T10:24:32Z
+Status: Open
+Branch: feature/activity-1736718896517
+
+Description of changes...
+
+## Test: Add integration tests
+Opened: 2024-02-03T12:57:23Z
+Status: Open
+Branch: feature/activity-1736718898756
+
+Description of changes...
+
+## Feature: Implement user authentication
+Opened: 2024-02-05T10:40:44Z
+Status: Open
+Branch: feature/activity-1736718901132
+
+Description of changes...
