@@ -230,3 +230,12 @@ Status: Open
 Branch: feature/activity-1736718838801
 
 Description of changes...
+Status: Merged (2024-01-07T12:08:54Z)
+Merged by: Gabriel Cantarin
+
+## Docs: Add API documentation
+Opened: 2024-01-04T09:54:30Z
+Status: Open
+Branch: feature/activity-1736718847215
+
+Description of changes...
