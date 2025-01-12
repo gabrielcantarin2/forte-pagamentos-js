@@ -392,3 +392,14 @@ URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/166
 Related Issue: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/120
 
 Description of changes...
+
+## Test: Add integration tests
+Opened: 2023-01-02T10:19:25Z
+Status: Open
+Branch: feature/activity-1736720152426
+URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/924
+Related Issue: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/985
+
+Description of changes...
+Status: Merged (2023-01-03T01:19:25Z)
+Merged by: Gabriel Cantarin
