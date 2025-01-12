@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "esnext", // or "es6"
+    "module": "esnext", // Use "commonjs" if you are targeting Node.js
+    "moduleResolution": "node", // or "nodenext" for experimental features
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": ".", // Set baseUrl for relative imports
+    "paths": {
+      "*": ["node_modules/*"] // Ensure paths include node_modules
+    }
+  }
+}
