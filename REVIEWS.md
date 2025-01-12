@@ -793,3 +793,27 @@ Date: 2023-01-02T20:39:52Z
 Status: APPROVED
 PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/978
 Comment: Nice refactoring. Much cleaner now.
+
+## Review on PR: Refactor: Improve code organization
+Date: 2023-01-04T22:19:51Z
+Status: CHANGES_REQUESTED
+PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/108
+Comment: Nice refactoring. Much cleaner now.
+
+## Review on PR: Refactor: Improve code organization
+Date: 2023-01-05T05:19:51Z
+Status: CHANGES_REQUESTED
+PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/108
+Comment: This could be simplified using newer ES6+ features.
+
+## Review on PR: Refactor: Improve code organization
+Date: 2023-01-05T11:19:51Z
+Status: CHANGES_REQUESTED
+PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/108
+Comment: Good job on error handling. Maybe add logging?
+
+## Review on PR: Refactor: Improve code organization
+Date: 2023-01-05T18:19:51Z
+Status: APPROVED
+PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/108
+Comment: Performance looks good. Approved!
