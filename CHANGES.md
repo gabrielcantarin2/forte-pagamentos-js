@@ -329,3 +329,20 @@ Status: Open
 Branch: feature/activity-1736718932723
 
 Description of changes...
+Status: Merged (2024-02-26T09:19:51Z)
+Merged by: Gabriel Cantarin
+Status: Merged (2024-02-28T11:22:39Z)
+Merged by: Gabriel Cantarin
+Status: Merged (2024-03-02T13:07:07Z)
+Merged by: Gabriel Cantarin
+Status: Merged (2024-03-07T11:58:49Z)
+Merged by: Gabriel Cantarin
+Status: Merged (2024-03-12T10:24:56Z)
+Merged by: Gabriel Cantarin
+
+## Style: Update UI components
+Opened: 2024-03-12T11:18:10Z
+Status: Open
+Branch: feature/activity-1736718964018
+
+Description of changes...
