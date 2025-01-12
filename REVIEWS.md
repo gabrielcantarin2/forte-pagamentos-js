@@ -733,3 +733,21 @@ Date: 2024-11-21T15:30:49Z
 Status: APPROVED
 URL: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/155#discussion_r581
 Comment: Good job on error handling. Maybe add logging?
+
+## Review on PR: Security: Fix vulnerability in auth flow
+Date: 2023-01-03T12:43:43Z
+Status: CHANGES_REQUESTED
+PR: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/249
+Comment: Nice refactoring. Much cleaner now.
+
+## Review on PR: Security: Fix vulnerability in auth flow
+Date: 2023-01-03T19:43:43Z
+Status: CHANGES_REQUESTED
+PR: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/249
+Comment: Security considerations look solid.
+
+## Review on PR: Security: Fix vulnerability in auth flow
+Date: 2023-01-04T01:43:43Z
+Status: APPROVED
+PR: https://github.com/gabrielcantarin2/gabrielcantarin2/pull/249
+Comment: Security considerations look solid.
