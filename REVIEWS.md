@@ -955,3 +955,21 @@ Date: 2023-01-31T20:29:40Z
 Status: APPROVED
 PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/769
 Comment: This could be simplified using newer ES6+ features.
+
+## Review on PR: Fix: Resolve memory leak in background tasks
+Date: 2023-02-01T21:18:02Z
+Status: CHANGES_REQUESTED
+PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/761
+Comment: Good job on error handling. Maybe add logging?
+
+## Review on PR: Fix: Resolve memory leak in background tasks
+Date: 2023-02-02T01:18:02Z
+Status: CHANGES_REQUESTED
+PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/761
+Comment: The code style follows our guidelines perfectly.
+
+## Review on PR: Fix: Resolve memory leak in background tasks
+Date: 2023-02-02T03:18:02Z
+Status: APPROVED
+PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/761
+Comment: The implementation looks clean. Please add more tests.
