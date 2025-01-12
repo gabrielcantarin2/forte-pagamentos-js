@@ -301,3 +301,10 @@ Status: Open
 Branch: feature/activity-1736718907748
 
 Description of changes...
+
+## Fix: Resolve memory leak in background tasks
+Opened: 2024-02-11T13:41:42Z
+Status: Open
+Branch: feature/activity-1736718914470
+
+Description of changes...
