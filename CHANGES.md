@@ -239,3 +239,10 @@ Status: Open
 Branch: feature/activity-1736718847215
 
 Description of changes...
+
+## Chore: Update development dependencies
+Opened: 2024-01-07T14:41:32Z
+Status: Open
+Branch: feature/activity-1736718853875
+
+Description of changes...
