@@ -346,3 +346,10 @@ Status: Open
 Branch: feature/activity-1736718964018
 
 Description of changes...
+
+## Build: Update CI/CD pipeline
+Opened: 2024-03-14T10:38:27Z
+Status: Open
+Branch: feature/activity-1736718970655
+
+Description of changes...
