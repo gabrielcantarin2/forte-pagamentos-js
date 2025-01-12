@@ -357,3 +357,10 @@ Status: Merged (2024-03-16T13:05:53Z)
 Merged by: Gabriel Cantarin
 Status: Merged (2024-03-20T11:40:43Z)
 Merged by: Gabriel Cantarin
+
+## Fix: Resolve memory leak in background tasks
+Opened: 2024-03-19T15:23:40Z
+Status: Open
+Branch: feature/activity-1736718978220
+
+Description of changes...
