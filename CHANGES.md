@@ -657,3 +657,14 @@ Related Issue: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/95
 Description of changes...
 Status: Merged (2023-02-28T23:22:04Z)
 Merged by: Gabriel Cantarin
+
+## Style: Update UI components
+Opened: 2023-03-01T15:43:22Z
+Status: Open
+Branch: feature/activity-1736730297070
+URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/491
+Related Issue: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/295
+
+Description of changes...
+Status: Merged (2023-03-02T07:43:22Z)
+Merged by: Gabriel Cantarin
