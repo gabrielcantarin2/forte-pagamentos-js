@@ -598,3 +598,14 @@ Related Issue: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/93
 Description of changes...
 Status: Merged (2023-02-12T23:19:17Z)
 Merged by: Gabriel Cantarin
+
+## Chore: Update development dependencies
+Opened: 2023-02-13T12:14:28Z
+Status: Open
+Branch: feature/activity-1736728595179
+URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/822
+Related Issue: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/474
+
+Description of changes...
+Status: Merged (2023-02-14T03:14:28Z)
+Merged by: Gabriel Cantarin
