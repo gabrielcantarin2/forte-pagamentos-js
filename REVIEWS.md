@@ -1195,3 +1195,21 @@ Date: 2023-03-02T06:43:22Z
 Status: APPROVED
 PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/491
 Comment: Performance looks good. Approved!
+
+## Review on PR: Perf: Optimize image loading
+Date: 2023-03-03T15:32:09Z
+Status: CHANGES_REQUESTED
+PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/768
+Comment: Good job on error handling. Maybe add logging?
+
+## Review on PR: Perf: Optimize image loading
+Date: 2023-03-03T16:32:09Z
+Status: CHANGES_REQUESTED
+PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/768
+Comment: Nice refactoring. Much cleaner now.
+
+## Review on PR: Perf: Optimize image loading
+Date: 2023-03-03T17:32:09Z
+Status: APPROVED
+PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/768
+Comment: This could be simplified using newer ES6+ features.
