@@ -679,3 +679,14 @@ Related Issue: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/43
 Description of changes...
 Status: Merged (2023-03-03T19:32:09Z)
 Merged by: Gabriel Cantarin
+
+## Perf: Optimize image loading
+Opened: 2023-03-04T09:50:30Z
+Status: Open
+Branch: feature/activity-1736730999907
+URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/650
+Related Issue: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/516
+
+Description of changes...
+Status: Merged (2023-03-05T04:50:30Z)
+Merged by: Gabriel Cantarin
