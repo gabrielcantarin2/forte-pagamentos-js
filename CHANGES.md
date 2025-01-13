@@ -519,3 +519,14 @@ Related Issue: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/82
 Description of changes...
 Status: Merged (2023-02-02T04:18:02Z)
 Merged by: Gabriel Cantarin
+
+## Docs: Add API documentation
+Opened: 2023-02-02T13:05:16Z
+Status: Open
+Branch: feature/activity-1736726382273
+URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/584
+Related Issue: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/516
+
+Description of changes...
+Status: Merged (2023-02-03T11:05:16Z)
+Merged by: Gabriel Cantarin
