@@ -1027,3 +1027,15 @@ Date: 2023-02-04T15:30:15Z
 Status: APPROVED
 PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/791
 Comment: The code style follows our guidelines perfectly.
+
+## Review on PR: Build: Update CI/CD pipeline
+Date: 2023-02-07T14:25:55Z
+Status: CHANGES_REQUESTED
+PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/268
+Comment: The implementation looks clean. Please add more tests.
+
+## Review on PR: Build: Update CI/CD pipeline
+Date: 2023-02-07T18:25:55Z
+Status: APPROVED
+PR: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/268
+Comment: Good job on error handling. Maybe add logging?

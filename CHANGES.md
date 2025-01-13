@@ -554,3 +554,14 @@ Status: Merged (2023-02-04T16:30:15Z)
 Merged by: Gabriel Cantarin
 Status: Merged (2023-02-11T12:47:12Z)
 Merged by: Gabriel Cantarin
+
+## Build: Update CI/CD pipeline
+Opened: 2023-02-07T10:25:55Z
+Status: Open
+Branch: feature/activity-1736727288077
+URL: https://github.com/gabrielcantarin2/forte-pagamentos-js/pull/268
+Related Issue: https://github.com/gabrielcantarin2/forte-pagamentos-js/issues/820
+
+Description of changes...
+Status: Merged (2023-02-07T20:25:55Z)
+Merged by: Gabriel Cantarin
